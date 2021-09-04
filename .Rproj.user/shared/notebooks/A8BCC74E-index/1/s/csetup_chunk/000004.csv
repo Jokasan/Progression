@@ -1,0 +1,3 @@
+"0","players <- read.csv(""Player_Prog.csv"")"
+"0","pacman::p_load(tidyverse,plotly,flexdashboard,crosstalk)"
+"0","pen_df <- SharedData$new(players)"
