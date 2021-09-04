@@ -2,6 +2,8 @@
 title: "User Progression"
 output: 
   flexdashboard::flex_dashboard:
+    theme:
+      version: 3
     orientation: rows
     horizontal_layout: fill
     source_code: embed
