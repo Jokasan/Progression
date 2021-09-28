@@ -1,1 +1,3 @@
-# Part of the interview task for a Data Analyst role at Square Enix.
+# Progression
+
+Interactive dashboard, part of the interview task for a Data Analyst role at Square Enix.
